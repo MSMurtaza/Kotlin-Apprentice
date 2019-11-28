@@ -1,7 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2d9c57e6-c2f9-4f2e-8d9f-9654e3aebf41" name="Default Changelist" comment="" />
+    <list default="true" id="2d9c57e6-c2f9-4f2e-8d9f-9654e3aebf41" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/Kotlin-Apprentice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ch#4BasicControlFlow/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Ch#6Functions/MiniExercise1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Ch#6Functions/MiniExercise1Kt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Ch#6Functions/MiniExercise2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Ch#6Functions/MiniExercise2Kt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Ch#6Functions/MiniExercise3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Ch#6Functions/MiniExercise3Kt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Ch#6Functions/MiniExercise4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Ch#6Functions/MiniExercise4Kt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Ch#6Functions/Overloading.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Ch#6Functions/OverloadingKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Ch#6Functions/ParametersAsValues.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Ch#6Functions/ParametersAsValuesKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Ch#6Functions/ReturnTwoValues.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Ch#6Functions/ReturnTwoValuesKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Ch#6Functions/ReturnValues.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Ch#6Functions/ReturnValuesKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Challenge1PrimeNumber.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin-Apprentice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ch#2ExpressionsVariablesConstants/src/Challenges.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Ch#2ExpressionsVariablesConstants/src/challenges_Ch3.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ch#3Types&amp;Operations/src/Challenges.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Ch#3Types&amp;Operations/src/Challenges-Ch3.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ch#4BasicControlFlow/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ch#4BasicControlFlow/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ch#4BasicControlFlow/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ch#4BasicControlFlow/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ch#4BasicControlFlow/out/production/Ch#4BasicControlFlow/BreakingOutOfTheLoopKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Ch#4BasicControlFlow/out/production/Ch#4BasicControlFlow/BreakingOutOfTheLoopKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ch#6Functions/FunctionBasics.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ch#6Functions/FunctionBasics.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ch#6Functions/FunctionBasicsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ch#6Functions/FunctionBasicsKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ch#6Functions/META-INF/Ch#6Functions.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ch#6Functions/META-INF/Ch#6Functions.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ParametersAsValues.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ParametersAsValues.kt" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +61,10 @@
   <component name="ProjectId" id="1U18s1NEIxzqEefnp1OsIwoT0Lv" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
@@ -36,7 +80,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Kotlin.Challenge1PrimeNumberKt">
+    <configuration name="Challenge1PrimeNumberKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Ch#6Functions" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Challenge1PrimeNumberKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FunctionBasicsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Ch#6Functions" />
       <option name="VM_PARAMETERS" />
@@ -50,8 +107,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ParametersAsValuesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Ch#6Functions" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ParametersAsValuesKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Challenge1PrimeNumberKt" />
+        <item itemvalue="Kotlin.ParametersAsValuesKt" />
         <item itemvalue="Kotlin.FunctionBasicsKt" />
       </list>
     </recent_temporary>
@@ -74,7 +146,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
