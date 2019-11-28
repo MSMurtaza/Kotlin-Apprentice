@@ -12,7 +12,8 @@ class Challenge1PrimeNumber {
      * @param number the number that will be divided
      * @return Boolean true or false will be returned after complete execution
      */
-    fun isPrime(number: Int): Boolean {
+    fun isPrime(number: Int): Boolean{
+        if (number < 0) return false
         var boolean:Boolean
         var prime = 0
         for (i in 0 until number) {
@@ -27,9 +28,9 @@ fun main() {
     val obj = Challenge1PrimeNumber()
 
     println(obj.isPrime(3))
-    println(obj.isPrime(6))
+   // println(obj.isPrime(6))
     println(obj.isPrime(16))
-    println(obj.isPrime(7))
+    /*println(obj.isPrime(7))
     println(obj.isPrime(13))
-    println(obj.isPrime(8893))
+    println(obj.isPrime(8893))*/
 }
